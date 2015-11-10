@@ -11,7 +11,7 @@ body {
 }
 
 .jumbotron {
-	background: url('/img/Providence.jpg') no-repeat center center;
+	background: url('/img/Providence.jpg') no-repeat center center fixed;
 	background-size: cover;
 	height: 750px;
 	color: white;
@@ -50,7 +50,8 @@ body {
 }
 
 .feature {
-	background: URL('img/background4.jpg');
+	background: URL('img/background4.jpg') no-repeat center center;
+	background-size:cover;
 	padding:20px;
 	height: 700px;
 	text-align: center;
