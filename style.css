@@ -99,7 +99,6 @@ body {
 	height: 100px;
 	background: black;
 	color: white;
-	display:inline;
 }
 
 .footer h1{
@@ -112,11 +111,13 @@ body {
 
 .footer ul {
 	list-style: none;
+	padding: 0px;
 }
 
 .footer li{
 	display: inline-block;
 	font-size: 14px;
+	padding-bottom: 5px;
 }
 
 .footer a{
