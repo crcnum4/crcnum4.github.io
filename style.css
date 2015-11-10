@@ -46,7 +46,11 @@ body {
 	color: white;
 }
 
-.nabbar li:hover:not(.active) {
+.nav-pills > li> a {
+	color: white;
+}
+
+.nav-pills > li> a:hover  {
 	background-color: #337AB7;
 }
 
