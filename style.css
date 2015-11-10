@@ -103,7 +103,7 @@ body {
 
 .footer h1{
 	font-size: 16px;
-	color:#007696;
+	color: #13B4D8;
 	text-decoration: underline;
 	margin-top: 30px;
 	margin-bottom: 15px;
@@ -115,13 +115,14 @@ body {
 }
 
 .footer li{
-	display: inline-block;
 	font-size: 14px;
 	padding-bottom: 5px;
 }
 
 .footer a{
 	text-decoration: none;
+	color: white;
+	font-weight: 500;
 }
 
 .footer a:hover {
