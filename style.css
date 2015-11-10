@@ -63,10 +63,30 @@ body {
 	font-weight: 600;
 }
 
-.feture p {
+.feature p {
 	font-weight: 600;
+	border-bottom: 1px solid white;
 }
 
 .featured-img {
-	margin-top: 50px;
+	margin-top: 30px;
 }
+
+.samples {
+	color: white;
+	font-weight: 600;
+	background: transparent;
+}
+
+.samples h1{
+	font-size: 40px;
+	border: 1px solid white;
+	margin-bottom: 30px;
+}
+
+.thumbnail {
+	border: 0px;
+	background: transparent;
+}
+
+.footer
