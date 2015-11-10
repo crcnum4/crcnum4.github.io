@@ -54,4 +54,14 @@ body {
 	padding:20px;
 	height: 700px;
 	text-align: center;
+	color: white;
+}
+
+.feature h1{
+	font-size: 30px;
+	font-weight: 600;
+}
+
+.feture p {
+	font-weight: 600;
 }
