@@ -83,6 +83,7 @@ body {
 	font-size: 40px;
 	border-bottom: 1px solid white;
 	margin-bottom: 30px;
+	font-family: 'Droid Sans';
 }
 
 .thumbnail {
@@ -90,4 +91,12 @@ body {
 	background: transparent;
 }
 
-.footer
+.images {
+	padding-bottom: 30px;
+}
+
+.footer {
+	height: 100px;
+	background: black;
+	color: white;
+}
