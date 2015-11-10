@@ -19,12 +19,12 @@ body {
 }
 
 .jumbotron h1{
-	font-size: 40px;
+	font-size: 45px;
 	font-weight: 600;
 	width: 100%;
 	/*background-color: rgba(178, 178, 178, 0.7);*/
 	padding: 10px 10px;
-	color: rgba(255, 255, 255 0.85)
+	color: #ddd;
 }
 
 .navbar {
