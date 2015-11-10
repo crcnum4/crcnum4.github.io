@@ -99,4 +99,32 @@ body {
 	height: 100px;
 	background: black;
 	color: white;
+	display:inline;
 }
+
+.footer h1{
+	font-size: 16px;
+	color:#007696;
+	text-decoration: underline;
+	margin-top: 30px;
+	margin-bottom: 15px;
+}
+
+.footer ul {
+	list-style: none;
+}
+
+.footer li{
+	display: inline-block;
+	font-size: 14px;
+}
+
+.footer a{
+	text-decoration: none;
+}
+
+.footer a:hover {
+	text-decoration: underline;
+	cursor: pointer;
+}
+
