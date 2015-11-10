@@ -1,0 +1,57 @@
+html, body {
+	margin: 0;
+	padding: 0;
+	font-family: 'Raleway',sans-serif;
+	font-size: 18px;
+}
+
+body {
+	background: url('/img/background5.jpg') no-repeat center center fixed;
+	background-size: cover;
+}
+
+.jumbotron {
+	background: url('/img/Providence.jpg') no-repeat center center;
+	background-size: cover;
+	height: 750px;
+	color: white;
+	padding-top: 150px;
+}
+
+.jumbotron h1{
+	font-size: 40px;
+	font-weight: 600;
+	width: 100%;
+	/*background-color: rgba(178, 178, 178, 0.7);*/
+	padding: 10px 10px;
+}
+
+.navbar {
+	display: inline;
+	color: white;
+	padding-top: 20px;
+	padding-bottom: 30px;
+}
+
+.navbar ul{
+	margin-top: 20px;
+}
+
+.navbar h1 {
+	font-size: 30px;
+}
+
+.btn .active{
+	background: #4E9154;
+}
+
+.btn {
+	color: #8AE07D;
+}
+
+.feature {
+	background: URL('img/background4.jpg');
+	padding:20px;
+	height: 700px;
+	text-align: center;
+}
