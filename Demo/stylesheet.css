@@ -20,4 +20,5 @@ video {
 	height: 10%;
 	top: 40%;
 	left: 40%;
+	position: absolute;
 }
