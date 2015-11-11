@@ -3,9 +3,10 @@ html, body {
 	padding:0;
 }
 
-.video {
+video {
 	width: 100%;
 }
+
 
 .play {
 	margin: auto;
