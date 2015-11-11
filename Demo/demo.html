@@ -2,7 +2,9 @@
 <html>
 	<head>
 		<link rel="stylesheet" type="text/css" href="stylesheet.css"/>
-        <script type="text/javascript" src="script.js"></script>
+		<!--
+        	<script type="text/javascript" src="script.js"></script>
+    	-->
 		<title>Demo Video Site</title>
 	</head>
 	<body>
@@ -10,7 +12,8 @@
 			<video id='vid'>
 				<source type='video/mp4' src='small.mp4' />
 			</video>
-			<div class="play" ></div>
+			<div class="play" >
+				<button id='btn' onclick="document.getElementById('demo').play(); document.getElementById('btn').toggle(10)">
 			</div>
 		</div>
 	</body>
