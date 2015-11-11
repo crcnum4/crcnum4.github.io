@@ -15,8 +15,9 @@ video {
 	top: 0px;
 }
 
-.btn {
+#btn {
 	width: 10%;
 	height: 10%;
-	top: 45%;
+	top: 40%;
+	left: 40%;
 }
