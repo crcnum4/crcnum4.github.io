@@ -3,6 +3,10 @@ html, body {
 	padding:0;
 }
 
+html {
+	overflow-y: hidden;
+}
+
 video {
 	width: 100%;
 }
