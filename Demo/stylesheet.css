@@ -10,9 +10,14 @@ video {
 
 
 .video .play {
-	margin: auto;
+	margin: 0, auto;
 	padding-top: 45%;
 	height: 75px;
 	width: 75px;
 	background-color:black;
+}
+
+.play {
+	display: absolute;
+	top: 45%;
 }
