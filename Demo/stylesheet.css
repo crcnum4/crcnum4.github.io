@@ -9,7 +9,7 @@ video {
 }
 
 
-.play {
+.video .play {
 	margin: auto;
 	padding-top: 45%;
 	height: 75px;
