@@ -1,6 +1,6 @@
 $(document).ready(function() {
 	$('.play').click(function() {
-		$('video').play()
+		$('video').play();
 		$('.play').toggle(100);
 	}
 }
