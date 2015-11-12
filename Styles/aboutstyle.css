@@ -18,6 +18,11 @@ body {
 	padding-top: 150px;;
 }
 
+.jumbotron img{
+	float: left;
+	margin-left: 5vw;
+}
+
 .jumbotron h1{
 	font-size: 45px;
 	font-weight: 600;
@@ -25,6 +30,8 @@ body {
 	background-color: rgba(120, 120, 120, 0.4);
 	padding: 10px 10px;
 	color: #ddd;
+	float: right;
+	text-align: left;
 }
 
 .navbar {
