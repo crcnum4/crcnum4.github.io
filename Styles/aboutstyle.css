@@ -11,7 +11,7 @@ body {
 }
 
 .jumbotron {
-	background: url('../img/background3.png') no-repeat center center fixed;
+	background: url('../img/background3.jpg') no-repeat center center fixed;
 	background-size: cover;
 	height: 75vh;
 	color: white;
