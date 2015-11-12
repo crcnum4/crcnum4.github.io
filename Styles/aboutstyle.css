@@ -15,12 +15,11 @@ body {
 	background-size: cover;
 	height: 75vh;
 	color: white;
-	padding-top: 150px;;
+	padding-top: 100px;;
 }
 
 .jumbotron img{
 	float: left;
-	margin-left: 5vw;
 }
 
 .jumbotron h1{
@@ -35,6 +34,7 @@ body {
 }
 
 .navbar {
+	clear: both;
 	display: inline;
 	color: white;
 	padding-top: 20px;
