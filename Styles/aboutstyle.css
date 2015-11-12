@@ -83,13 +83,27 @@ body {
 	border-bottom: 1px solid white;
 }
 
-.skills ul{
+.skills ul, .hobbies ul{
 	padding-top: 10px;
 	list-style: none;
+	padding-left: 10px;
+}
+
+.skills li, .hobbies li {
+	font-size: 20;
+	font-weight: 500;
+	margin-bottom: 5px;
+
 }
 
 .skills img, .hobbies img {
-	width: 60%;
+	width: 90%;
 	margin-top: 10px;
 	margin-bottom: 20px;
+}
+
+.hobbies img, .skills img {
+	border:2px solid white;
+	padding-left: 20px;
+	padding-right: 20px;
 }
