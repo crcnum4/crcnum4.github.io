@@ -11,12 +11,11 @@ body {
 }
 
 .jumbotron {
-	height: 80%;
+	height: 75vh;
 	background: url('/img/Providence.jpg') no-repeat center center fixed;
 	background-size: cover;
 	color: white;
-	padding-top: 150px;
-	position: absolute;
+	padding-top: 150px;;
 }
 
 .jumbotron h1{
