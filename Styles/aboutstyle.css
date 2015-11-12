@@ -20,6 +20,7 @@ body {
 
 .jumbotron img{
 	float: left;
+	border:2px solid white;
 }
 
 .jumbotron h1{
@@ -76,6 +77,12 @@ body {
 	color: white;
 }
 
+.skills h1 {
+	text-align: center;
+	padding-bottom:10px;
+	border-bottom: 1px solid white;
+}
+
 .skills ul{
 	padding-top: 10px;
 	list-style: none;
@@ -83,4 +90,6 @@ body {
 
 .skills img, .hobbies img {
 	width: 30%;
+	margin-top: 10px;
+	margin-bottom: 20px;
 }
