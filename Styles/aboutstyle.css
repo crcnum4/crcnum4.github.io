@@ -68,3 +68,15 @@ body {
 .btn {
 	color: #8AE07D;
 }
+
+.skills {
+	padding:30 10;
+	background: url('../img/background2.jpg');
+	background-size: cover;
+	color: white;
+}
+
+.skills ul{
+	padding-top: 10px;
+	list-style: none;
+}
