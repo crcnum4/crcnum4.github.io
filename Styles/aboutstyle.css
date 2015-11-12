@@ -1,0 +1,63 @@
+html, body {
+	margin: 0;
+	padding: 0;
+	font-family: 'Raleway',sans-serif;
+	font-size: 18px;
+}
+
+body {
+	background: url('../img/background5.jpg') no-repeat center center fixed;
+	background-size: cover;
+}
+
+.jumbotron {
+	background: url('../img/background3.jpg') no-repeat center center fixed;
+	background-size: cover;
+	height: 75%;
+	color: white;
+	padding-top: 150px;
+}
+
+.jumbotron h1{
+	font-size: 45px;
+	font-weight: 600;
+	width: 100%;
+	background-color: rgba(120, 120, 120, 0.4);
+	padding: 10px 10px;
+	color: #ddd;
+}
+
+.navbar {
+	display: inline;
+	color: white;
+	padding-top: 20px;
+	padding-bottom: 30px;
+}
+
+.navbar ul{
+	margin-top: 20px;
+}
+
+.navbar h1 {
+	font-size: 30px;
+}
+
+.navbar li:not(.active) {
+	color: white;
+}
+
+.nav-pills > li> a {
+	color: white;
+}
+
+.nav-pills > li> a:hover  {
+	background-color: #337AB7;
+}
+
+.btn .active{
+	background: #4E9154;
+}
+
+.btn {
+	color: #8AE07D;
+}
