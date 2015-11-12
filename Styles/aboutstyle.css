@@ -80,3 +80,7 @@ body {
 	padding-top: 10px;
 	list-style: none;
 }
+
+.skills img, .hobbies img {
+	width: 30%;
+}
