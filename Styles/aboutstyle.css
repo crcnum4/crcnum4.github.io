@@ -114,3 +114,38 @@ body {
 	margin-top: auto;
 	margin-bottom: auto;
 }
+
+.footer {
+	background: black;
+	color: white;
+	padding-bottom: 60px;
+}
+
+.footer h1{
+	font-size: 16px;
+	color: #13B4D8;
+	text-decoration: underline;
+	margin-top: 30px;
+	margin-bottom: 15px;
+}
+
+.footer ul {
+	list-style: none;
+	padding: 0px;
+}
+
+.footer li{
+	font-size: 14px;
+	padding-bottom: 5px;
+}
+
+.footer a{
+	text-decoration: none;
+	color: white;
+	font-weight: 500;
+}
+
+.footer a:hover {
+	text-decoration: underline;
+	cursor: pointer;
+}
