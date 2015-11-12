@@ -16,6 +16,7 @@ body {
 	background-size: cover;
 	color: white;
 	padding-top: 150px;
+	position: absolute;
 }
 
 .jumbotron h1{
