@@ -1,0 +1,118 @@
+html, body {
+	margin: 0;
+	padding: 0;
+	font-family: 'Raleway',sans-serif;
+	font-size: 18px;
+}
+
+body {
+	background: url('../img/background5.jpg') no-repeat center center fixed;
+	background-size: cover;
+}
+
+.jumbotron {
+	background: url('../img/background6.jpg') no-repeat center center fixed;
+	background-size: cover;
+	height: 83vh;
+	color: white;
+	padding-top: 100px;;
+}
+
+.jumbotron h1{
+	font-size: 45px;
+	font-weight: 600;
+	width: 70%;
+	background-color: rgba(100, 100, 100, 0.6);
+	padding: 10px 10px;
+	color: #ddd;
+	text-align: center;
+}
+
+.navbar {
+	clear: both;
+	display: inline;
+	color: white;
+	padding-top: 20px;
+	padding-bottom: 30px;
+}
+
+.navbar ul{
+	margin-top: 20px;
+}
+
+.navbar h1 {
+	font-size: 30px;
+}
+
+.navbar li:not(.active) {
+	color: white;
+}
+
+.nav-pills > li> a {
+	color: white;
+}
+
+.nav-pills > li> a:hover  {
+	background-color: #337AB7;
+}
+
+.btn .active{
+	background: #4E9154;
+}
+
+.btn {
+	color: #8AE07D;
+}
+
+.formsection {
+	background: url('../img/background3.jpg') no-repeat center center;
+	background-size: cover;
+	padding: 30px 20px;
+	color: white;
+}
+
+.formsection h1 {
+	font-size: 20px;
+	font-weight: 600;
+	border-bottom: 2px solid white;
+	padding-top:20px;
+	padding-bottom: 20px;
+	text-align: center;
+}
+
+
+.footer {
+	background: black;
+	color: white;
+	padding-bottom: 60px;
+	margin-top: 20px;
+}
+
+.footer h1{
+	font-size: 16px;
+	color: #13B4D8;
+	text-decoration: underline;
+	margin-top: 30px;
+	margin-bottom: 15px;
+}
+
+.footer ul {
+	list-style: none;
+	padding: 0px;
+}
+
+.footer li{
+	font-size: 14px;
+	padding-bottom: 5px;
+}
+
+.footer a{
+	text-decoration: none;
+	color: white;
+	font-weight: 500;
+}
+
+.footer a:hover {
+	text-decoration: underline;
+	cursor: pointer;
+}
