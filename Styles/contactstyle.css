@@ -65,7 +65,7 @@ body {
 }
 
 .formsection {
-	background: url('../img/background3.jpg') no-repeat center center;
+	background: url('../img/background77.jpg') no-repeat center center;
 	background-size: cover;
 	padding: 30px 20px;
 	color: white;
@@ -78,6 +78,11 @@ body {
 	padding-top:20px;
 	padding-bottom: 20px;
 	text-align: center;
+}
+
+.formsection label {
+	background: rgba(50, 50, 50, 0.7);
+	padding:10px 5px;
 }
 
 
