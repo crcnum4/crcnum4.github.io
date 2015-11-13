@@ -74,12 +74,25 @@ body {
 }
 
 .formsection h1 {
-	font-size: 20px;
+	font-size: 30px;
 	font-weight: 600;
-	border-bottom: 2px solid white;
-	padding-top:20px;
+	margin-top: 20px;
 	padding-bottom: 20px;
 	text-align: center;
+	background: rgba(50, 50, 50, 0.7);
+	padding:10px 5px;
+}
+
+.formsection p {
+	border-top: 2px solid white;
+	padding: 20px;
+	background: rgba(50, 50, 50, 0.7);
+}
+
+.formsection a{
+	color: red;
+}
+
 }
 
 .formsection label {
