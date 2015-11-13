@@ -10,6 +10,10 @@ body {
 	background-size: cover;
 }
 
+.container {
+	max-width: 940px;
+}
+
 .jumbotron {
 	background: url('../img/background6.jpg') no-repeat center center fixed;
 	background-size: cover;
