@@ -66,6 +66,11 @@ body {
 	color: #8AE07D;
 }
 
+.formsection button .btn {
+	background: #337AB7;
+	color: white;
+}
+
 .formsection {
 	background: url('../img/background77.jpg') no-repeat center center;
 	background-size: cover;
